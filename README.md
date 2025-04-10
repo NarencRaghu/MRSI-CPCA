@@ -20,7 +20,10 @@ Visualize and interpret low-dimensional embeddings that distinguish MS pathology
 You can install the required Python packages using:
 
 ```
-pip install -r requirements.txt
+$ pip install -r requirements.txt
+```
+```
+$ pip install contrastive
 ```
 
 # Key libraries:
